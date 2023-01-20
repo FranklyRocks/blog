@@ -12,7 +12,7 @@ tags:
     object-fit: cover;"/>
 
 
-Machine learning autoscaling is one of the most undervalued technologies in the software engineering field. While traditional autoscaling systems rely on pre-defined rules and thresholds, machine learning systems use machine learning algorithms to dynamically adapt to changing workloads.
+Machine learning autoscaling is one of the most undervalued technologies in the software engineering field. While traditional autoscaling systems rely on pre-defined rules and thresholds, machine learning systems use algorithms to dynamically adapt to changing workloads.
 
 # Benefits
 The benefits of machine learning autoscaling compared to traditional methods are numerous.
